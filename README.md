@@ -1,5 +1,5 @@
 ## FusionGEN
-
+*
 Latest FusionGEN Version: 1.0.2 
 - Based on FusionCMS Version: 6.2.1
 
